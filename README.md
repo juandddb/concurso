@@ -2,7 +2,7 @@
 
 Este es un sistema sencillo para gestionar un concurso de canciones. Las canciones son evaluadas por su puntuación, y al final, se obtiene la canción ganadora según las puntuaciones otorgadas.
 
-## 🚀 Descripción
+## Descripción
 
 En este sistema, se pueden agregar canciones al concurso y votar por ellas. El programa realiza lo siguiente:
 
