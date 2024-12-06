@@ -25,7 +25,7 @@ En este sistema, se pueden agregar canciones al concurso y votar por ellas. El p
 
 ## 📈 Cómo ejecutar el proyecto
 
-1. Clona este repositorio en tu máquina local:
+1. Clona este repositorio en tu pc y gozá:
 
    ```bash
    git clone https://github.com/juandddb/concurso-canciones-java.git
